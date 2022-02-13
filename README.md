@@ -1,1 +1,2 @@
-# Personal
+# I am SargeroDeV I develop and study languages ​​like SQL,C++,C#,HTML,CSS and in the future even more languages. I am always willing to give a hand to whoever needs it, do not hesitate to contact me Sargero#4467
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sargerodev&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
